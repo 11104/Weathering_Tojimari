@@ -15,5 +15,9 @@
 
 解説記事-->"[天気予報が雨の時、傘を持つように促す装置を作った](https://qiita.com/nih/items/5b122e9b43f3f10e7acf)"
 
+## Attention
+- M5StickCでは書き込み時にGND接続を外して下さい。
+- M5Stickは、M5StackとLEDの電圧設定が逆です。
+
 ## Version History
 - v1.0 - 23/3/13 release
