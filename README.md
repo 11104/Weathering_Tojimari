@@ -14,7 +14,10 @@
 書き込む際は"[Weathering_Tojimari.ino](https://github.com/11104/Weathering_Tojimari/blob/main/Weathering_Tojimari/Weathering_Tojimari.ino)"を指定してください。(他のファイルはコンパイル時に自動的にマージされます。)
 ドア通知の猶予時間は20秒、天気予報の取得は30分がデフォルトになっています。
 
-解説記事-->"[天気予報が雨の時、傘を持つように促す装置を作った](https://qiita.com/nih/items/5b122e9b43f3f10e7acf)"
+# Movie
+[動作例](https://youtu.be/q4lDglBBaFI)
+
+"[天気予報が雨の時、傘を持つように促す装置を作った](https://qiita.com/nih/items/5b122e9b43f3f10e7acf)"
 
 # Attention
 - M5StickCでは書き込み時にGND接続を外して下さい。
