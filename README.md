@@ -15,7 +15,8 @@
 ドア通知の猶予時間は20秒、天気予報の取得は30分がデフォルトになっています。
 
 # Movie
-[動作例](https://youtu.be/q4lDglBBaFI)
+画像を押すと[YouTube](https://youtu.be/q4lDglBBaFI)へ飛びます。
+[![動作例](http://img.youtube.com/vi/q4lDglBBaFI/0.jpg)](https://www.youtube.com/watch?v=q4lDglBBaFI)
 
 "[天気予報が雨の時、傘を持つように促す装置を作った](https://qiita.com/nih/items/5b122e9b43f3f10e7acf)"
 
